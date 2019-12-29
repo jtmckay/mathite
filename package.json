@@ -7,5 +7,8 @@
     "license": "MIT",
     "scripts": {
         "deploy": "gh-pages -d build"
+    },
+    "devDependencies": {
+        "gh-pages": "2.1.1"
     }
 }
