@@ -1,0 +1,11 @@
+{
+    "name": "mathite",
+    "homepage": "https://www.mathite.com",
+    "version": "1.0.0",
+    "description": "Programmable calculator",
+    "author": "Taylor McKay",
+    "license": "MIT",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    }
+}
