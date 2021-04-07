@@ -6,9 +6,9 @@
     "author": "Taylor McKay",
     "license": "MIT",
     "scripts": {
-        "deploy": "gh-pages -d build"
+        "deploy": "sh copy.sh && gh-pages -d build"
     },
     "devDependencies": {
-        "gh-pages": "2.1.1"
+        "gh-pages": "3.1.0"
     }
 }
